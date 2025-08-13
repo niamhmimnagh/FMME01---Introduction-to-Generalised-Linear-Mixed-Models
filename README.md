@@ -1,4 +1,4 @@
-# FMME01---Introduction-to-Generalised-Linear-Mixed-Models
+# FMME01---Introduction to Generalised Linear Mixed Models
 This repository contains all materials for the Introduction to Generalised Linear Mixed Models (GLMMs) course. It includes datasets, example scripts, and lecture slides used throughout the sessions.
 
 📂 Repository Structure
