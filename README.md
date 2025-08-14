@@ -73,17 +73,17 @@ Open in R/RStudio (recommended).
 
 Install required packages (used across demos; install as needed):
 
-install.packages(c(
-  "lme4",         # mixed-effects models (lmer, glmer)
-  "ggplot2",      # plotting
-  "dplyr",        # data wrangling
-  "lattice",      # caterpillar (dotplot) for random effects
-  "sjPlot",       # pretty model plots
-  "tidyverse",    # pipes + general utilities (also includes ggplot2/dplyr)
-  "broom",        # tidy() for glm
-  "broom.mixed",  # tidy() for glmer
-  "ggeffects"     # effect curves
-))
+    install.packages(c(
+      "lme4",         # mixed-effects models (lmer, glmer)
+      "ggplot2",      # plotting
+      "dplyr",        # data wrangling
+      "lattice",      # caterpillar (dotplot) for random effects
+      "sjPlot",       # pretty model plots
+      "tidyverse",    # pipes + general utilities (also includes ggplot2/dplyr)
+      "broom",        # tidy() for glm
+      "broom.mixed",  # tidy() for glmer
+      "ggeffects"     # effect curves
+    ))
 
 Run the demos:
 
